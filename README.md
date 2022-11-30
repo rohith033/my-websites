@@ -9,5 +9,5 @@ made using react and rapid api
 using html,css & js 
 <h1>https://acepkd.netlify.app/ </h1>
 <p align="center">
-  <img src="./ace1.jpeg" width="1080" title="hover text">
+  <img src="./ace1.jpeg" width="500" title="hover text">
 </p>
